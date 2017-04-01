@@ -2,7 +2,7 @@
 Go client for https://github.com/prometheus/alertmanager API. Useful for automatic end-to-end tests.
 
 
-Created, since I needed such, but it seems that it will be soon available in https://github.com/prometheus/client_golang!
+EDIT: Created this repo, since I needed such thing, but aborted any effort - it seems that it will be soon available in https://github.com/prometheus/client_golang!
 
 See https://github.com/prometheus/client_golang/pull/263 for details. Specifically:
 
